@@ -1,2 +1,2 @@
 # js-portfolio
-Aprendiendo elcurso de Webpack de Platzi
+Aprendiendo Webpack con el curso de Platzi
